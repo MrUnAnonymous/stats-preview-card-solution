@@ -23,12 +23,12 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![![Final](image.png)](./screenshot.jpg)
 
 ### Links
 
-- Solution URL: [Link]()
-- Live Site URL: [Link]()
+- Solution URL: [Link](https://github.com/MrUnAnonymous/stats-preview-card-solution)
+- Live Site URL: [Link](https://stats-preview-card-solution-three.vercel.app/)
 
 ## My process
 
@@ -42,4 +42,3 @@ Users should be able to:
 ## Author
 
 - Frontend Mentor - [@MrUnAnonymous](https://www.frontendmentor.io/profile/MrUnAnonymous)
-
